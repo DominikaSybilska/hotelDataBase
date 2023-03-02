@@ -10,3 +10,5 @@ The main purpose of the database is to store information about reservations for 
 <li>generating reports on the number of guests, completed and canceled reservations at each hotel</li>
 <li>generating invoices</li>
 </ul>
+
+As an attachment, I attached a logical model and relations between the tables.
