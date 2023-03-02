@@ -1,6 +1,5 @@
-# Hotel system management 
+# Hotel system management crated with MS Access (University requirements)
 
-Hotel system management 
 The main purpose of the database is to store information about reservations for stays at the fictitious D&B&N hotel chain. The chain consists of two hotels: hotel Bursztyn i Zielony Zakątek. However, under the term reservations are taken reservations made, and reservations canceled. In addition, the presented database also performs side functions such as:
 <ul>
 <li>storing information on current room statuses and room types</li>
